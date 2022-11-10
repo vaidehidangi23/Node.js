@@ -1,0 +1,31 @@
+  [
+    {
+        "id": 1,
+        "name":"vaidehi",
+        "email":"vaidehi@gmail.com",
+        "city": "indore"
+    },
+    
+    {
+        "id": 2,
+        "name":"yashi",
+        "email":"yashi@gmail.com",
+        "city": "indore"
+    },
+
+    
+    {
+        "id": 3,
+        "name":"mukta",
+        "email":"mukta@gmail.com",
+        "city": "indore"
+    },
+
+    
+    {
+        "id": 4,
+        "name":"khushi",
+        "email":"khushii@gmail.com",
+        "city": "indore"
+    }
+  ]
